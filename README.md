@@ -7,7 +7,7 @@ Simple Resume for freshers with no experience created using HTML and CSS
    ```bash
    git clone https://github.com/Jinesh-Jain1507/Basic-Resume.git
 
-2. Open the resume.html file using any code editor
+2. Open the index.html file using any code editor
 
 3. Replace your details
 
